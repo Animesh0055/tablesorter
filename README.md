@@ -1,4 +1,4 @@
-tablesorter
+Tablesorter --[Animesh Sen]
 ===========
 
 ### Flexible client-side table sorting
